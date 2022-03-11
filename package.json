@@ -6,6 +6,10 @@
   "engines": {
     "node": ">=12.9.0"
   },
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
     "cli": "node dist/cli.js",
