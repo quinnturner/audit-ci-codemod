@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import * as inquirer from "inquirer";
 import { readConfig, writeConfig } from "./config";
 import { transform } from "./transform";
