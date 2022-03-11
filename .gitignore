@@ -1,0 +1,10 @@
+node_modules
+.tmp
+npm-debug.log
+yarn-error.log
+.DS_store*
+
+dist
+
+# Editor files
+*~
