@@ -10,7 +10,7 @@ inquirer
       name: "configPath",
       message: "What's the path for the audit-ci config?",
       default() {
-        return "./audit-ci.json";
+        return "./audit-ci.jsonc";
       },
     },
   ])
