@@ -1,6 +1,6 @@
 {
   "name": "@quinnturner/audit-ci-codemod",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Helps migrate audit-ci configurations",
   "main": "dist/index.js",
   "engines": {
