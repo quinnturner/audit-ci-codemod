@@ -26,7 +26,7 @@
   ],
   "bin": "dist/cli.js",
   "author": "quinnturnertech@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/quinnturner/audit-ci-codemod/issues"
   },
